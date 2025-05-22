@@ -9,7 +9,7 @@
 ## Sobre mim
 
 <img align="right" height="190" src="https://i.pinimg.com/originals/e6/df/b2/e6dfb22ee8a14be110ec2bed65cc51a5.gif">
-<img align="left" height="190" src="https://i.pinimg.com/originals/99/6d/aa/996daaef7e99240cd50410dd10163a91.gif">
+<img align="left" height="">
 
 
 <br><br><br><br>
@@ -26,3 +26,12 @@
   <img src="https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff">
   <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff">
 </p>
+
+
+## Certificações
+
+| Certificações | Nome |
+| --- | --- |
+| ![CCNA ITN](https://img.shields.io/badge/CISCO_Introductio_To_Networks-t?style=plastic&logo=cisco&color=black) | Cisco Network Introduction to Networks |
+| ![AWS CF](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations_-t?style=plastic&logo=amazonwebservices&logoColor=orange&color=black) | AWS Academy Cloud Fundations |
+| ![MICROSOFT AI-900]() |
