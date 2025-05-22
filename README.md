@@ -42,17 +42,20 @@ Meu objetivo é crescer com profundidade técnica e visão de negócio, com baga
 ---
 
 ## Conquistas 🏆
-
-
-
-
-
+- 
+-
+-
+-
+-
+-
 
 ## Projetos 🧑‍💻
-
-
-
-
+-
+-
+-
+-
+-
+-
 
 ---
 
@@ -65,7 +68,6 @@ Meu objetivo é crescer com profundidade técnica e visão de negócio, com baga
 <p align="center">
   <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"> <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
 </p>
-
 <h4 align="center">
   Obrigado por visitar meu perfil!!!
   <div>
