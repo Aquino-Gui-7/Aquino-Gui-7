@@ -19,6 +19,7 @@ Meu objetivo é crescer com profundidade técnica e visão de negócio, com baga
 
 **"Não dar meu máximo é jogar meu dom no lixo." - BK**
 
+
 ## Tech Stack
 
 <p align="center">
@@ -35,9 +36,10 @@ Meu objetivo é crescer com profundidade técnica e visão de negócio, com baga
 
 | Certificações | Nome |
 | --- | --- |
-| ![CCNA ITN](https://img.shields.io/badge/CISCO_Introductio_To_Networks-t?style=plastic&logo=cisco&color=black) | Cisco Network Introduction to Networks |
-| ![AWS CF](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations_-t?style=plastic&logo=amazonwebservices&logoColor=orange&color=black) | AWS Academy Cloud Fundations |
-| ![MICROSOFT AI-900](https://img.shields.io/badge/_SENAI_Microsoft_AI_900_-T?style=plastic&logoColor=orange&color=black) | Implantação de serviços em em nuvem Microsoft AI-900 |
+| ![CCNA ITN](https://img.shields.io/badge/CCNA_Introduction_to_Networks-t?style=plastic&logo=cisco&color=black&link=https%3A%2F%2Fwww.credly.com%2Fearner%2Fearned%2Fbadge%2Fea96e1f5-eb42-490d-9c35-768114613581) | Cisco Network Introduction to Networks |
+| ![CCNA SRWE](https://img.shields.io/badge/CCNA_Switching_Routing_Wireless_Essentials-t?style=plastic&logo=cisco&color=black&link=https%3A%2F%2Fwww.credly.com%2Fearner%2Fearned%2Fbadge%2F822cce41-f29a-4f3e-8694-fbf6cbe53add) | Cisco Switching, Routing, and Wireless Essentials |
+| ![AWS CF](https://img.shields.io/badge/AWS_Academy_Cloud_Foundations-t?style=plastic&logo=amazonwebservices&logoColor=yellow&color=black&link=https%3A%2F%2Fwww.credly.com%2Fearner%2Fearned%2Fbadge%2F09eb4ca9-bb93-4c6f-9268-8d97898aa025) | AWS Academy Cloud Fundations |
+| ![MICROSOFT AI-900](https://img.shields.io/badge/SENAI_Microsoft_AI_900-t?style=plastic&color=black&link=https%3A%2F%2Fwww.sp.senai.br%2Fconsulta-certificado%3Fqrcode%3D13425154477%2F15060290) | Implantação de Serviços de Inteligência Artificial em Nuvem |
 
 ---
 
